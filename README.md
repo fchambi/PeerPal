@@ -3,7 +3,7 @@ Hello dearest judges! We have 2 repos for our smart contract and front-end integ
 
 1.You can see our full product here: https://peerpal-beta.vercel.app/
 
-2.Front-end integration: https://github.com/MrRaccxxn/
+2.Front-end integration: https://github.com/MrRaccxxn/peerpal
 
 3.Smart contract integration: https://github.com/fchambi/PeerPal-Smart-Contract
 
