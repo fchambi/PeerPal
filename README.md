@@ -2,8 +2,11 @@ PeerPal
 Hello dearest judges! We have 2 repos for our smart contract and front-end integration! We worked in a very async and decentralized way 🙂 
 
 1.You can see our full product here: https://peerpal-beta.vercel.app/
+
 2.Front-end integration: https://github.com/MrRaccxxn/
+
 3.Smart contract integration: https://github.com/fchambi/PeerPal-Smart-Contract
+
 4.Presentation Pitch Deck
 
 SmartContract verification:
