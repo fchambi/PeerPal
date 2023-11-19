@@ -7,7 +7,7 @@ Hello dearest judges! We have 2 repos for our smart contract and front-end integ
 
 3.Smart contract integration: https://github.com/fchambi/PeerPal-Smart-Contract
 
-4.Presentation Pitch Deck
+4.Presentation Pitch Deck: https://pitch.com/v/pEERpAL-kczf32 
 
 SmartContract verification:
 
